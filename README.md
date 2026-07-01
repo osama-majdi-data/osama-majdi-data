@@ -93,8 +93,8 @@ Every model should solve a real business problem, every dashboard should support
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn *(Coming Soon)*
-- 📧 Email *(Add your email here)*
+- 💼 LinkedIn *(www.linkedin.com/in/osama-alassar-637694419)*
+- 📧 Email *(osama.majdi.data@gmail.com)*
 
 ---
 
