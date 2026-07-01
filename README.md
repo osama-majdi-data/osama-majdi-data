@@ -14,7 +14,7 @@ Building end-to-end data solutions that transform raw data into business decisio
 
 ## 🚀 About Me
 
-I'm a Biomedical Engineering graduate who enjoys solving business problems through data.
+I'm a Biomedical Engineer passionate about building production-inspired data systems that transform raw business data into actionable decisions.
 
 My projects focus on the complete analytical workflow rather than isolated machine learning models.
 
@@ -26,12 +26,17 @@ Currently, I'm expanding my skills in Data Engineering, Machine Learning, and He
 
 ## 💡 What I Enjoy Building
 
-- 🗄 SQL Data Engineering Pipelines
-- 🤖 Machine Learning Systems
-- 📊 Executive Power BI Dashboards
-- 📈 Predictive Analytics
-- 🏥 Healthcare Data Projects
-- ⚡ Automation Workflows
+🗄 Data Engineering
+
+📊 Business Intelligence
+
+🤖 Machine Learning
+
+📈 Predictive Analytics
+
+🏥 Healthcare Analytics
+
+⚙ Automation
 
 ---
 
