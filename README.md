@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/osama-majdi-data/osama-majdi-data/main/photo_2026-06-26_14-52-37.jpg" width="220">
+</p>
+
 # Hi 👋, I'm Osama Assar
 
 ### Biomedical Engineer • Data Engineer • Machine Learning Enthusiast
