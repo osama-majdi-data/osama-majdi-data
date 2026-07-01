@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/osama-majdi-data/osama-majdi-data/main/profile.jpg" width="220">
-</p>
+
 
 # Hi 👋, I'm Osama Assar
 
