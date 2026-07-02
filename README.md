@@ -2,7 +2,7 @@
 
 
 
-# Hi 👋, I'm Osama Assar
+# Hi 👋, I'm Osama ALassar
 
 ### Biomedical Engineer • Data Engineer • Machine Learning Enthusiast
 
